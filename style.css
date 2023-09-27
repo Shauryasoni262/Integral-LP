@@ -1,0 +1,313 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    height: 100vh;
+}
+nav ul li,.down,.hire{
+font-weight: 500;
+font-size: 16px;
+text-decoration: none;
+}
+navbar{
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;  
+    padding: 30px 10%;
+}
+.logo{
+    cursor: pointer;
+    margin-right: auto;
+}
+.social{
+    position: absolute;
+    top: 43em;
+right: 12em;
+}
+nav ul li{
+    display: inline-block;
+    padding: 0px 20px;
+
+}
+.down{
+ margin-left: 20px;
+    border: none;
+    padding: 0.9em;
+    color: white;
+    background-color: #FD6F00;
+    border-radius: 8px;
+
+
+}
+nav ul{
+    list-style: none;
+}
+.hi{
+    font-weight: 800;
+   
+}
+.div1{
+    margin-left: 9.7em;
+    margin-top: 5em;
+}
+.span1{
+    color: #FD6F00;
+    font-size: 1em;
+    font-weight: 800;
+}
+.professional{
+    font-size: 6em;
+    font-weight: bolder;
+    position: relative;
+    bottom: 0.2em;
+    right: 0.1em;
+    color: black;
+}
+.design{
+position: relative;
+bottom: 0.5em;
+left: 2em;
+}
+.lorem{
+    width: 50%;
+    position: relative;
+    bottom: 3em;
+    font-weight: 500;
+}
+.hire{
+
+    border: none;
+    padding: 0.9em 5em;
+    color: white;
+    background-color: #FD6F00;
+    border-radius: 8px;
+    letter-spacing: 2px;
+    font-size: large;
+    font-weight: 600;
+}
+.man1{
+    height: 30em;
+position: absolute;
+right: 5%;
+z-index: -2;
+}
+
+main{
+    height: 100vh;
+}
+.man2{
+    position: relative;
+     bottom: 10em;
+     float: left;
+     padding-right: 2em;
+}
+.about{
+    font-size: 5em;
+}
+
+.lorem2{
+    width: 90em;
+    padding-bottom: 2em;
+}
+.ratio{
+   
+}
+article{
+    height: 50vh;
+
+}
+.services{
+    font-size: 4em;
+    position: relative;
+    bottom:2em;
+    display: flex;
+    justify-content: center;
+    
+}
+.lorem3{
+    margin:0 10em 0 10em;
+    text-align: center;
+    position: relative;
+    bottom: 7em;
+
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    
+}
+.services3{
+    margin:0 5em 0 11em;
+  
+position: relative;
+bottom: 3em;
+}
+section{
+    height: 100vh;
+}
+.projects{
+    display: flex;
+    justify-content: center;
+    font-size: 4em;
+    margin-top: 1em;
+
+}
+.lorem4{
+    margin:0 10em 0 10em;
+    text-align: center;
+    position: relative;
+top: 2em;
+}
+.btn{
+    
+ 
+    display: flex;
+    justify-content: center;
+
+}
+.btn button{
+    font-weight: bold;
+    padding: 0.8em;
+    border-radius: 10px;
+    border: 0.5px solid #8d8b88;
+    position: relative;
+    top: 7em;
+    margin: 0 0.2em 0 0.2em;
+}
+.btn button:nth-child(3){
+
+    color: white;
+background-color: #FD6F00;
+}
+.img3 img{
+  
+ width: 27em;
+position: relative;
+margin: 10em 0 0 0;
+
+
+}
+.img3{
+  margin-left:8em ;
+}
+
+aside{
+  margin-top: 15em;
+height: 85vh;
+}
+.Testimonials{
+    display: flex;
+    justify-content: center;
+    font-size: 4em;
+  
+}
+.lorem5{
+    margin:0 15em 0 15em;
+    text-align: center;
+    position: relative;
+top: 2em;
+}
+.test{
+    margin: 7em 0 0 20em;
+}
+.test2{
+    position: relative;
+    top: 2em;
+    right: 34em;
+}
+.footer2{
+    height: 50vh;
+}
+.last,.lorem6{
+    display: flex;
+    justify-content: center;
+      
+}
+
+.last{
+    font-size: 4em;
+}
+.lorem6{
+    margin:0 15em 0 15em;
+    text-align: center;
+    position: relative;
+top: 2em;
+}
+.contact2{
+    margin-left: 20px;
+    border: none;
+    padding: 0.9em;
+    color: white;
+    background-color: #FD6F00;
+    border-radius: 8px;
+
+}
+input{
+  border: 0.5px solid #8d8b88;
+  padding:1em 15em 1em 1em;
+  border-radius: 8px;
+}
+.rem{
+    margin: 5em 10em 15em 35em;
+}
+footer{
+    height: 48vh;
+}
+
+.footer3 ul{
+    display: flex;
+    justify-content: center;
+}
+.footer3 ul li{
+    font-weight: 500;
+font-size: 16px;
+text-decoration: none;
+}
+.logo2{
+    position: relative;
+    margin-left: 37em;
+    padding-bottom: 3em;
+}
+.footer3 ul li{
+    list-style: none;
+    padding: 0px 20px;
+}
+  
+.end{
+    margin-left: 38em;
+    padding-top: 3em;
+}
+content{
+    margin-top: 3em;
+    display: flex;
+    justify-content: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    background-color: #545454;
+    color: white;
+    font-weight: bold;
+}
+#end{
+    color: #FD6F00;
+    padding: 0 0.7em 0 0.7em;
+}
+@media (max-width:1430px){
+    .img3 img{
+  
+ width: 24em;
+position: relative;
+margin: 10em 0 0 0;
+}
+
+
+
+}
